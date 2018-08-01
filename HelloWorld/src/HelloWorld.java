@@ -30,6 +30,7 @@ public class HelloWorld {
 
 	public String getName(String firstName1, String firstName2) {
 		return firstName1 + " " + firstName2;
+		
 	}
 
 }
