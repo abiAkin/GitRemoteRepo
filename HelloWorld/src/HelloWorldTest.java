@@ -13,7 +13,6 @@ public class HelloWorldTest {
 		String firstName2 = "Akinhanmi";
 		String result = helloWorld.getName(firstName1, firstName2);
 		assertEquals("Names are equal", result, firstName1 + " " + firstName2);
-		
 	}
 	
 	@Test
@@ -25,6 +24,5 @@ public class HelloWorldTest {
 		String name2 = "Phipps";
 		String result = helloWorld.getName(name1, name2);
 		assertEquals("Names not equal", result, name1 + " " + name2);
-		
 	}
 }
