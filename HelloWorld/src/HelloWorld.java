@@ -6,8 +6,6 @@
  * @author akinhanmia
  *
  */
-package foo.bar;
-
 public class HelloWorld {
 
 	/**
