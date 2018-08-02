@@ -5,7 +5,8 @@ public class HelloWorldTest {
 
 	@Test
 	public void testGetNameWhenEqual() {
-		SYstem.out.println("Aarron is cool");
+		System.out.println("Aarron is cool");
+		
 		HelloWorld helloWorld = new HelloWorld();
 		
 		String firstName1 = "Abigail";
