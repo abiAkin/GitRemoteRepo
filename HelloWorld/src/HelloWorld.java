@@ -1,11 +1,5 @@
-/**
- * 
- */
+package helloTest;
 
-/**
- * @author akinhanmia
- *
- */
 public class HelloWorld {
 
 	/**
