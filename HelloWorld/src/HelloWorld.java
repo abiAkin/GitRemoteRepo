@@ -1,5 +1,3 @@
-package helloTest;
-
 public class HelloWorld {
 
 	/**
